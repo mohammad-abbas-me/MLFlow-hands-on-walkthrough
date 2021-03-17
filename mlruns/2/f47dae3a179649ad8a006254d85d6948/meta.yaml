@@ -1,0 +1,15 @@
+artifact_uri: mlruns/2/f47dae3a179649ad8a006254d85d6948/artifacts
+end_time: 1615982717545
+entry_point_name: ''
+experiment_id: '2'
+lifecycle_stage: active
+name: ''
+run_id: f47dae3a179649ad8a006254d85d6948
+run_uuid: f47dae3a179649ad8a006254d85d6948
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1615982672463
+status: 3
+tags: []
+user_id: mohammadabbas.me
