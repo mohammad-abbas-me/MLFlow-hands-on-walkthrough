@@ -1,0 +1,3 @@
+Pipeline(steps=[('imputer', SimpleImputer(strategy='median')),
+                ('attribs_adder', CombinedAttributesAdder()),
+                ('std_scaler', StandardScaler())])
